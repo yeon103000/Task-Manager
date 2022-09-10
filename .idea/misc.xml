@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/CalendarViewLib/src/main/res/layout/xml_calendar.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/CalendarViewLib/src/main/res/layout/xml_calendar_container.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/CalendarViewLib/src/main/res/layout/xml_calendar_view.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/CalendarViewLib/src/main/res/layout/xml_grid_item_day.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/drawable/round_button.xml" value="0.2055" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/drawable/round_corners.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/drawable/selector.xml" value="0.2055" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/layout/activity_add_alarm.xml" value="0.1875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/layout/activity_add_post.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/layout/activity_alarm.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/layout/activity_alarm_landing_page.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/layout/activity_alarm_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/layout/activity_calendar_view_with_notes.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/layout/activity_diary_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/layout/activity_sign_in.xml" value="0.1875" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/layout/activity_sign_up.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/layout/activity_to_do_list.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/layout/fragment_add_edit_alarm.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/layout/update_food_activity.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Task_Manager_2022_summer_pro-master/app/src/main/res/menu/menu_navigation.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/USER/Desktop/android_projects_coll/App_Project_Final-summer--master/app/src/main/res/drawable/splash_background.xml" value="0.21041666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
